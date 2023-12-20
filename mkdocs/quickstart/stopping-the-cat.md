@@ -2,7 +2,7 @@
 
 ## Stopping the Cat
 
-When you're done using the Cat, stop the terminal by clicking on it and press `CTRL + c`. Then, run the command:
+When you're done using the Cat, stop the terminal by clicking on it and press `CTRL + C`. Then, run the command:
 
 ```bash
 docker-compose down
